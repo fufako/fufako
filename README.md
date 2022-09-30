@@ -116,7 +116,6 @@
   </tr>
 </table>
 # 🔥 Stats
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fufako)](https://git.io/streak-stats)
 
 
