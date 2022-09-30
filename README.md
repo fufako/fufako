@@ -1,6 +1,8 @@
 # 👋 Hi there 
 
+<div align="justify">
 My name is Patryk and I'm a Full Stack Developer who loves to work with JavaScript technologies. During my second year of studying economics, I decided to learn a new programming language as a hobby (I was familiar with HTML, CSS, and C++). Over time I grew to really like it. I devoted the rest of my studies to programming (at that time Python). As a result, to this point, I have been studying and developing in this direction. I started with Python, but then I realized that creating websites has been something that gave me the most satisfaction, so I began to learn Web Development.
+</div>
 
 # ⚒️ Technologies & Tools
 <table>
