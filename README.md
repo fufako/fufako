@@ -1,6 +1,6 @@
-### 👋 Hi there 
+# 👋 Hi there 
 
-### ⚒️ Technologies & Tools
+# ⚒️ Technologies & Tools
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -115,7 +115,7 @@
     </td>
   </tr>
 </table>
-### :fire: Stats
+# 🔥 Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fufako&theme=react)](https://git.io/streak-stats)
 
 <!--
