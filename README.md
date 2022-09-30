@@ -1,10 +1,9 @@
-### Hi there 👋
+### 👋 Hi there 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/patryko-mikiciuk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+### ⚒️ Technologies & Tools 
+
+### 📈 Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fufako&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **fufako/fufako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
