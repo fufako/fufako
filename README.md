@@ -19,7 +19,7 @@
         height="48"
         alt="CSS3"
       />
-      <br /><strong>CSS3</strong>
+      <br /><strong>CSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -32,39 +32,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
         alt="React"
       />
       <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="48"
-        height="48"
-        alt="Redux"
-      />
-      <br /><strong>Redux</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -103,15 +76,6 @@
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
