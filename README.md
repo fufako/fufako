@@ -61,6 +61,15 @@ My name is Patryk and I'm a Full Stack Developer who loves to work with JavaScri
       />
       <br /><strong>Npm</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
