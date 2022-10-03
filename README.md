@@ -142,4 +142,4 @@ My name is Patryk and I'm a Full Stack Developer who loves to work with JavaScri
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fufako&theme=dark)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jjablonski-it&theme=dark)](https://git.io/streak-stats)
