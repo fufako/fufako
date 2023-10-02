@@ -137,8 +137,3 @@ My name is Patryk and I'm a Frontend Developer who loves to work with JavaScript
     </td>
   </tr>
 </table>
-
-# 🔥 Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fufako&theme=dark)](https://git.io/streak-stats)
-
