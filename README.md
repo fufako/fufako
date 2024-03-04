@@ -45,12 +45,12 @@ My name is Patryk and I'm a Frontend Developer who loves to work with JavaScript
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Typescript"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Typescript</strong>
     </td>
         <td align="center" height="108" width="108">
       <img
