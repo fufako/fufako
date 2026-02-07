@@ -16,18 +16,6 @@ My name is Patryk Mikiciuk. I am a Frontend Developer with 5 years of experience
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML" />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS" />
-      <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br /><strong>TypeScript</strong>
     </td>
