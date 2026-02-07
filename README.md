@@ -1,139 +1,84 @@
-# 👋 Hi there 
+# Hi there
 
 <div align="justify">
-My name is Patryk and I'm a Frontend Developer who loves to work with JavaScript technologies. During my second year of studying economics, I decided to learn a new programming language as a hobby (I was familiar with HTML, CSS, and C++). Over time I grew to really like it. I devoted the rest of my studies to programming (at that time Python). As a result, to this point, I have been studying and developing in this direction. I started with Python, but then I realized that creating websites has been something that gave me the most satisfaction, so I began to learn Web Development.
+My name is Patryk Mikiciuk. I am a Frontend Developer with 5 years of experience in TypeScript. I focus on building fast, accessible, and well-structured web interfaces. In my free time I craft highly optimized websites with Next.js, putting a lot of care into performance, SEO, and clean UI.
 </div>
 
-# ⚒️ Technologies & Tools
+## Focus
+
+- TypeScript-first frontends
+- Performance, SEO, Core Web Vitals
+- Clean UI and consistent UX
+- Modern Next.js applications
+
+## Technologies and Tools
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML" />
       <br /><strong>HTML5</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS" />
       <br /><strong>CSS</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
       <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        width="48"
-        height="48"
-        alt="Typescript"
-      />
-      <br /><strong>Typescript</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br /><strong>Next.js</strong>
     </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Npm</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br /><strong>Webpack</strong>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br /><strong>Tailwind</strong>
     </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
       <br /><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
+      <br /><strong>Supabase</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
       <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+      <br /><strong>npm</strong>
     </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
+      <br /><strong>Vercel</strong>
     </td>
   </tr>
 </table>
+
+## About my work
+
+- 5 years of TypeScript development in real-world projects
+- Focus on clean architecture and predictable UI behavior
+- Preference for fast, SEO-friendly Next.js builds
+- Strong attention to performance budgets and Core Web Vitals
