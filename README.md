@@ -13,6 +13,8 @@ My name is Patryk Mikiciuk. I am a Frontend Developer with 5 years of experience
 
 ## Technologies and Tools
 
+### Core stack (daily work)
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -32,22 +34,15 @@ My name is Patryk Mikiciuk. I am a Frontend Developer with 5 years of experience
       <br /><strong>Tailwind</strong>
     </td>
   </tr>
+</table>
+
+### Tooling and delivery (daily work)
+
+<table>
   <tr>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
-      <br /><strong>Supabase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
@@ -60,6 +55,25 @@ My name is Patryk Mikiciuk. I am a Frontend Developer with 5 years of experience
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
       <br /><strong>Vercel</strong>
+    </td>
+  </tr>
+</table>
+
+### Familiar / used on smaller projects
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
+      <br /><strong>Supabase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      <br /><strong>Firebase</strong>
     </td>
   </tr>
 </table>
