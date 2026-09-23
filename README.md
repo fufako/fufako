@@ -21,6 +21,7 @@ Frontend Developer from Gdańsk, Poland. Since 2022 I've been working commercial
 ## Stack
 
 **Daily:** TypeScript, React, Next.js, styled-components, Tailwind CSS, React Query, react-hook-form
+
 **Tooling:** Git, GitLab CI, Vercel, ESLint, Figma
 
 ## Contact
